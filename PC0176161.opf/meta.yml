@@ -1,0 +1,111 @@
+id: PC0176161
+initial_creation_type: input
+source_metadata:
+  title: Dodrupchen Jigme Tenpe Nyima Series
+  language: it
+  description: 'Texts by and about the Third Dodrupchen, Jigme Tenpe Nyima (rdo grub
+    chen ''jigs med bstan pa''i nyi ma, 1865–1926):'
+  volume:
+    d11d99eb5952404e915344a816ae67fd:
+      title: Advice for a Dying Practitioner
+      parent: Advice
+    bf66a28520414b7fba60b1f110f04057:
+      title: On Seeing the Guru as a Buddha
+      parent: Advice
+    e8f7fbe43caf4cce9f38a9b5724ae0fa:
+      title: On Sleep
+      parent: Advice
+    564c4a009fd7439e8e56515086831ea5:
+      title: On the Ignorance of the Learned
+      parent: Advice
+    8d7641b5f353463f853b6645e3f6d630:
+      title: Retreat Advice
+      parent: Advice
+    40636322196d430dacdc03d340335b92:
+      title: Three Ways of Bringing Sickness onto the Path
+      parent: Advice
+    a51daf4ca90644d0a03fff68c322f8de:
+      title: Turning Suffering & Happiness Into Enlightenment
+      parent: Advice
+    d71a0b01a44446af9ebbbcaf43b9448e:
+      title: Aspiration for Rebirth in Sukhāvatī
+      parent: Aspiration Prayers
+    fba129104db543b0a34c3a182a60e7d1:
+      title: Aspirations in Accordance with the Dharma
+      parent: Aspiration Prayers
+    fd1892b8f9d9478fa30760b6c57c11be:
+      title: A Guide to the Practice of Sang
+      parent: Commentaries
+    9a410acfb82a46e08b1124c22580b4a1:
+      title: A Simple Visualization for the Seven-Line Prayer
+      parent: Commentaries
+    5a1079b30b9149ccb2e0a0fc248e3eac:
+      title: 'Garland of Night-Blooming Water Lilies: A Commentary on the Guru Siddhi
+        Mantra'
+      parent: Commentaries
+    4780c5434eb3447b948ac719cb5fc04e:
+      title: 'Lamp That Illuminates the Excellent Path of Great Bliss: A Guide to
+        the Practice Text of the Female Awareness-Holder, the Queen of Great Bliss'
+      parent: Commentaries
+    1270b17c819c416896dab290bf3edceb:
+      title: On the Final Words of Orgyen Tendzin Norbu
+      parent: Commentaries
+    df075f35b2534d21924fb64d8b26938c:
+      title: Teaching on the Offering of Flowers
+      parent: Commentaries
+    4dfd936541064cb18a238b4c1b6d0a87:
+      title: Advice for Hor Özer
+      parent: Dzogchen
+    e8d219c5762b4fc0b4cdf5854696a967:
+      title: Advice for Palseng
+      parent: Dzogchen
+    af8d6abdc81a432590108101a5d433b5:
+      title: How to Count the Four Permutations of Actual and Basis
+      parent: Dzogchen
+    9793bb2691b349749a4bb9b061831a4a:
+      title: Palchen Düpa Lineage Prayer
+      parent: Lineage Prayers
+    4745981e93344865a6ba96a2f03cadbe:
+      title: Prayer to the Gurus of the Dzogchen Lineage
+      parent: Lineage Prayers
+    96fc810fd9184acdb65c9a816dc7333c:
+      title: 'Rain of Siddhis: A Prayer to the Lineage of Rigdzin Düpa'
+      parent: Lineage Prayers
+    a5b05640c1774e7e91bbc9e89fe27a69:
+      title: A Brief Ritual for Consecrating Representations of Enlightened Body,
+        Speech and Mind
+      parent: Practices
+    c080d63faf984758a663381f469cb23f:
+      title: Rigdzin Düpa Amṛta Offering
+      parent: Practices
+    c53113db36014615b11c55692c323e00:
+      title: 'The Adamantine Magical Wheel: Invoking the Profound Pledge of Padmākara,
+        the Glorious Victor, to Avert the Final War'
+      parent: Practices
+    3337e40f08094c848375af40967ae023:
+      title: Yumka Fulfilment Practice
+      parent: Practices
+    04ec1639496c4652aea4f701a9d452d9:
+      title: In Praise of Patrul Orgyen Jigme Chökyi Wangpo
+      parent: Praise
+    fc6748f32b7941ad9abef20a30f17fb7:
+      title: In Praise of Sönam Palge
+      parent: Praise
+    7956f6c36b3a4a9fa9075ce447dbd098:
+      title: Prayer to Ārya Tārā
+      parent: Prayers
+    63513e035d7b472c81e7c5ea6d682c8a:
+      title: Prayer to Avalokiteśvara
+      parent: Prayers
+    c4d442377f14416e81bf468088b48ca3:
+      title: Prayer to Buddha Amitābha
+      parent: Prayers
+    0c89ea6468be4e64bdc9b1b55cb7cfd0:
+      title: Prayer to Padmasambhava, Longchenpa and Jigme Lingpa
+      parent: Prayers
+    2aeb92ff407e48408a10fe196cc38623:
+      title: 'Words of the Vajra Queen: An Essential Daily Practice of the Vidyādharas’
+        Female Practice'
+      parent: Sādhanas
+created_at: '2022-02-28T22:58:39.866079'
+last_modified_at: '2022-02-28T22:58:39.866082'
